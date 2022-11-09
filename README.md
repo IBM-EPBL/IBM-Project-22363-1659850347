@@ -10,7 +10,7 @@ We have come up with a new innovative solution through which you can directly do
 
 # Skills Required:
 
-IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
+IBM Cloud, HTML, Javascript, IBM Cloud Object Storage, Python-Flask, Kubernetes, Docker, IBM DB2, IBM Container Registry.
 
 # Team Members
 
