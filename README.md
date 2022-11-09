@@ -1,7 +1,8 @@
 ![image ibm](https://user-images.githubusercontent.com/112753888/200737525-574b4939-e7b6-4357-a68f-995465ec3324.svg)
 
-# Smart Fashion Recommender Application
-IBM-Project-22363-1659850347
+<h1 align="center"> Smart Fashion Recommender Application</h1>
+
+<h1 align="center">IBM-Project-22363-1659850347</h1>
 
 # Project Description:
 
